@@ -15,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/5665
     wikipedia: http://en.wikipedia.org/wiki/Louis-Honor%C3%A9_Fr%C3%A9chette
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/14751#Le-retour-de-l-exil---13-Drame-en-cinq-actes-et-huit-tableaux
 gutenberg_bookshelf: FR Théâtre
 gutenberg_issued: '2005-01-21'
 gutenberg_type: Text
