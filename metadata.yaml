@@ -1,0 +1,31 @@
+_repo: Le-retour-de-l-exil---13-Drame-en-cinq-actes-et-huit-tableaux_14751
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Fréchette, Louis Honoré
+    aliases:
+    - Cyprien
+    - Frechette, Louis Honore
+    birthdate: 1839
+    deathdate: 1908
+    gutenberg_agent_id: '5665'
+    url: http://www.gutenberg.org/2009/agents/5665
+    wikipedia: http://en.wikipedia.org/wiki/Louis-Honor%C3%A9_Fr%C3%A9chette
+description: ''
+gutenberg_bookshelf: FR Théâtre
+gutenberg_issued: '2005-01-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '14751'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+- !lcsh 'French-Canadian drama'
+title: "Le retour de l'exilé\r\nDrame en cinq actes et huit tableaux"
+url: http://www.gutenberg.org/ebooks/14751
